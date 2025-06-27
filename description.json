@@ -1,0 +1,308 @@
+{
+  "Apple___Apple_scab": {
+    "scientific_name": "Venturia inaequalis",
+    "category": "Fungal Disease",
+    "description": "Apple scab is a common fungal disease affecting apple and crabapple trees, caused by Venturia inaequalis. It begins with olive-brown velvety spots on young leaves and fruit in spring, expanding into corky lesions. Severe infections lead to early defoliation and misshapen, unmarketable fruit.",
+    "symptoms": [
+      "Olive‑green to brown velvety spots on leaves",
+      "Fringed lesion margins",
+      "Corky, cracked lesions on fruit",
+      "Premature leaf drop"
+    ],
+    "impact": "Reduces photosynthesis, weakens trees, decreases fruit yield and quality over time.",
+    "prevention_control": [
+      "Collect and destroy fallen leaves to remove overwintering spores",
+      "Prune for air circulation and sunlight penetration",
+      "Apply fungicides at green tip, pink bud, and post-bloom stages",
+      "Grow resistant cultivars where possible"
+    ]
+  },
+  "Apple___Black_rot": {
+    "scientific_name": "Botryosphaeria obtusa",
+    "category": "Fungal Disease",
+    "description": "Black rot is a severe fungal disease caused by Botryosphaeria obtusa. It starts with small purple spots on leaves that enlarge into brown concentric-ring lesions. Fruit develop black, sunken spots that rot and mummify, often showing a distinctive “frog-eye” pattern. Twigs may develop cankers under high disease pressure.",
+    "symptoms": [
+      "Purple-bordered spots on leaves",
+      "Frog‑eye lesions on apples",
+      "Sunken black fruit rot",
+      "Cankers on branches and twigs"
+    ],
+    "impact": "Significantly reduces fruit yield and marketability; persists in mummified fruit and dead wood to re-infect annually.",
+    "prevention_control": [
+      "Prune and burn infected branches and twigs",
+      "Remove fallen and mummified fruit from orchard floor",
+      "Apply protectant and post-infection fungicides during humid seasons",
+      "Maintain tree health and air circulation to reduce infection sites"
+    ]
+  },
+  "Apple___Cedar_apple_rust": {
+    "scientific_name": "Gymnosporangium juniperi‑virginianae",
+    "category": "Fungal Disease",
+    "description": "Cedar-apple rust is a fungal disease requiring two hosts—junipers and apples/crabapples—to complete its life cycle :contentReference[oaicite:1]{index=1}. It causes bright yellow-orange spots on apple leaves and fruit after spring infection, followed by orange gelatinous spore horns emerging from leaf undersides in wet conditions :contentReference[oaicite:2]{index=2}.",
+    "symptoms": [
+      "Yellow to orange spots on leaf uppersides",
+      "Black dots or aecia on undersides beneath spots",
+      "Orange, gelatinous telial horns from galls on juniper hosts",
+      "Raised spots or cracking on apple fruit"
+    ],
+    "impact": "Causes early defoliation when extensive, weakens trees and reduces fruit quality; juniper trees develop unsightly galls :contentReference[oaicite:3]{index=3}.",
+    "prevention_control": [
+      "Remove nearby juniper/cedar within 1–4 miles to interrupt spore cycle",
+      "Prune and destroy galls on junipers before spring rains",
+      "Apply fungicides (e.g., captan, thiophanate-methyl) from apple green tip through petal fall :contentReference[oaicite:4]{index=4}",
+      "Use resistant apple/crabapple cultivars when available"
+    ]
+  },
+  "Apple___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy apple leaf or fruit—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Blueberry___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy blueberry leaf or fruit—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "scientific_name": "Podosphaera clandestina",
+    "category": "Fungal Disease",
+    "description": "Powdery mildew on cherry manifests as white, powdery fungal growth on the surface of leaves, blossoms, and fruit. It can distort young leaves, stunt growth, reduce photosynthesis, and lower yield.",
+    "symptoms": [
+      "White, floury patches on leaves and shoots",
+      "Distorted, warped new leaves",
+      "Blossom necrosis",
+      "Reduced fruit set and size"
+    ],
+    "impact": "Weakens tree health, diminishes yield and fruit quality, and predisposes to other diseases.",
+    "prevention_control": [
+      "Improve air circulation through pruning",
+      "Remove infected shoots and leaves",
+      "Apply sulfur or potassium bicarbonate-based fungicides at first signs",
+      "Plant resistant cherry varieties"
+    ]
+  },
+  "Cherry_(including_sour)___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy cherry leaf or fruit—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "scientific_name": "Cercospora zeae-maydis",
+    "category": "Fungal Disease",
+    "description": "Cercospora leaf spot (gray leaf spot) in corn starts as small, tan specks on leaves, expanding into rectangular gray-brown lesions with dark margins aligned between veins. Under humid conditions, spores spread rapidly, causing defoliation and impaired grain fill.",
+    "symptoms": [
+      "Rectangular tan-brown lesions with dark borders",
+      "Lesions confined by leaf veins",
+      "Leaf senescence beginning at the tips",
+      "Whitish sporulation on lesion underside"
+    ],
+    "impact": "Premature leaf death can reduce yield by limiting photosynthesis and grain development.",
+    "prevention_control": [
+      "Plant resistant hybrids and rotate crops",
+      "Apply foliar fungicides (e.g., azoxystrobin) at VT–R1 stage",
+      "Manage residue to reduce inoculum",
+      "Avoid excessive irrigation late in season"
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "scientific_name": "Puccinia sorghi",
+    "category": "Fungal Disease",
+    "description": "Common rust of corn, caused by Puccinia sorghi, features reddish-brown pustules on both leaf surfaces. Under favorable conditions, pustules erupt and release spores, which spread rapidly through crops.",
+    "symptoms": [
+      "Reddish-brown pustules on leaves and husks",
+      "Pustules may merge in severe cases",
+      "Leaf yellowing and degradation"
+    ],
+    "impact": "Reduces photosynthetic leaf area, can lower yield if infection occurs early or hot humid weather persists.",
+    "prevention_control": [
+      "Plant resistant hybrids where available",
+      "Use protective fungicides if early-season infection occurs",
+      "Destroy volunteer corn plants to reduce spore sources"
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "scientific_name": "Exserohilum turcicum",
+    "category": "Fungal Disease",
+    "description": "Northern corn leaf blight appears as long, elliptical gray-green lesions that expand rapidly, often merging across leaf blades. Severe blight leads to extensive leaf death and can stunt plants if infection occurs early.",
+    "symptoms": [
+      "Long cigar-shaped gray-green lesions",
+      "Lesions expand and coalesce",
+      "Leaf necrosis and death",
+      "Lesions on husks and stalks in heavy infection"
+    ],
+    "impact": "Can significantly reduce yield, especially if plants are infected before tasseling.",
+    "prevention_control": [
+      "Use resistant varieties",
+      "Rotate crops and till residue",
+      "Apply fungicides when lesions first appear",
+      "Avoid excessive nitrogen fertilization"
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy corn leaf—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Grape___Black_rot": {
+    "scientific_name": "Guignardia bidwellii",
+    "category": "Fungal Disease",
+    "description": "Grape black rot is a destructive fungal disease caused by Guignardia bidwellii, favored by warm, humid weather :contentReference[oaicite:5]{index=5}. Symptoms start with small yellow spots on leaves that become tan centers with dark red-brown borders and black pycnidia. As spores spread, lesions form on shoots, tendrils, and fruit; berries rot, shrivel into mummies covered with black pycnidia :contentReference[oaicite:6]{index=6}.",
+    "symptoms": [
+      "Small circular to irregular tan lesions on leaves with dark margins",
+      "Black pycnidia (fruiting bodies) in concentric rings",
+      "Black sunken lesions on shoots, tendrils, rachis",
+      "Shriveled, raisin-like berries (“mummies”) on clusters"
+    ],
+    "impact": "Can cause severe crop losses—early cluster infection leads to fruit death; mummies overwinter and serve as inoculum; defoliation may occur in recurrent infection years :contentReference[oaicite:7]{index=7}.",
+    "prevention_control": [
+      "Sanitize by removing mummies and infected canes during dormant pruning",
+      "Apply multi-season protectant and post-infection fungicides :contentReference[oaicite:8]{index=8}",
+      "Promote airflow through canopy management",
+      "Plant resistant varieties where feasible"
+    ]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "scientific_name": "Phaeoacremonium spp. and others",
+    "category": "Fungal Disease",
+    "description": "Esca, also called black measles in grapes, is a complex trunk and vascular disease caused by multiple fungi. It causes interveinal “tiger stripe” foliar symptoms late in season and dark, sunken lesions on fruit resembling black spots.",
+    "symptoms": [
+      "Tiger-striped chlorosis on leaves",
+      "Sunken black spots on berries (“measles”)",
+      "Vine decline and dieback",
+      "White rot in wood, with fruity odor"
+    ],
+    "impact": "Chronic vine health decline, yield reduction, and vine loss; internal wood rot weakens structural integrity.",
+    "prevention_control": [
+      "Prune out and destroy dead wood and infected arms",
+      "Sanitize pruning tools between cuts",
+      "Apply delayed-dormant fungicides (e.g., sodium arsenite where allowed)",
+      "Promote vine vigor and avoid wounding"
+    ]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "scientific_name": "Isariopsis vitis",
+    "category": "Fungal Disease",
+    "description": "Grape leaf blight (Isariopsis) shows up as chlorotic spots on leaves that become tan-to-brown with dark margins. Under humid conditions, lesions may coalesce, causing premature leaf drop and reduced fruit quality.",
+    "symptoms": [
+      "Yellow to chlorotic round spots on leaves",
+      "Brown centers with dark borders",
+      "Lesions coalesce under severe pressure",
+      "Defoliation and reduced cluster shading"
+    ],
+    "impact": "Reduces vine vigor by defoliation, decreases fruit quality and sugar accumulation.",
+    "prevention_control": [
+      "Apply protectant fungicides (e.g., chlorothalonil) early season",
+      "Remove infected leaves",
+      "Improve canopy ventilation",
+      "Avoid overhead watering"
+    ]
+  },
+  "Grape___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy grape leaf or fruit—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "scientific_name": "Candidatus Liberibacter asiaticus",
+    "category": "Bacterial Disease",
+    "description": "Huanglongbing (citrus greening) is a destructive bacterial disease spread by psyllid vectors. Infected trees show mottled leaves, yellow shoots, small crooked fruit with aborted seeds, and eventual decline :contentReference[oaicite:9]{index=9}.",
+    "symptoms": [
+      "Asymmetrical yellow mottling on leaves",
+      "Blotchy chlorosis of new shoots",
+      "Small, lopsided, bitter fruit",
+      "Twig dieback and tree decline"
+    ],
+    "impact": "Causes yield loss, fruit drop, and eventual tree death; no cure exists; severe economic consequences for citrus producers.",
+    "prevention_control": [
+      "Remove and destroy infected trees",
+      "Control psyllid vectors using insecticides",
+      "Plant disease-free nursery stock",
+      "Use protective tree netting where feasible"
+    ]
+  },
+  "Peach___Bacterial_spot": {
+    "scientific_name": "Xanthomonas campestris pv. pruni",
+    "category": "Bacterial Disease",
+    "description": "Bacterial spot of peach results in small, water-soaked spots on leaves and fruit that enlarge and turn dark brown with scabby appearances. Infected leaves may drop, and fruit can crack, lowering marketability.",
+    "symptoms": [
+      "Water-soaked lesions on leaves and fruit",
+      "Dark, scabby sunken spots on fruit",
+      "Defoliation under heavy infection",
+      "Fruit cracking and distortion"
+    ],
+    "impact": "Reduces yield and fruit quality, promotes secondary infections, and weakens tree vigor over time.",
+    "prevention_control": [
+      "Apply copper-based sprays during bloom and early season",
+      "Prune for air circulation",
+      "Avoid overhead irrigation",
+      "Plant less susceptible peach cultivars"
+    ]
+  },
+  "Peach___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy peach leaf or fruit—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "scientific_name": "Xanthomonas euvesicatoria",
+    "category": "Bacterial Disease",
+    "description": "Bacterial spot on bell pepper causes greasy, dark lesions on leaves and fruit, which may merge and crack, leading to unmarketable produce.",
+    "symptoms": [
+      "Greasy, dark brown spots on leaves",
+      "Raised lesions on fruit, often cracking",
+      "Leaf yellowing and drop",
+      "Fruit scabbing and deformation"
+    ],
+    "impact": "Decreases yield and quality, limits sale of produce, and can remain in crop residue to infect next season.",
+    "prevention_control": [
+      "Use certified disease-free seed and transplants",
+      "Apply copper bactericides regularly",
+      "Remove infected plants/plant material",
+      "Practice crop rotation and sanitation"
+    ]
+  },
+  "Pepper,_bell___healthy": {
+    "scientific_name": null,
+    "category": "Healthy",
+    "description": "Healthy bell pepper leaf or fruit—no disease detected.",
+    "symptoms": [],
+    "impact": null,
+    "prevention_control": []
+  },
+  "Potato___Early_blight": {
+    "scientific_name": "Alternaria solani",
+    "category": "Fungal Disease",
+    "description": "Early blight of potato, caused by Alternaria solani, produces target-shaped brown lesions with concentric rings on older leaves, fingertips, stems, and tubers. Under warm, humid conditions, lesions spread quickly, leading to significant plant stress.",
+    "symptoms": [
+      "Tan-to-brown target spots on foliage with concentric rings",
+      "Lesions on stems may girdle and kill shoots",
+      "Black scabby patches on tuber surfaces",
+      "Reduced leaf area from defoliation"
+    ],
+    "impact": "Lowers yield and tuber quality significantly when infection is severe; promotes premature vine death.",
+    "prevention_control": [
+      "Apply protectant fungicides (e.g., chlorothalonil, mancozeb) when disease first appears",
+      "Rotate with non-host crops",
+      "Remove volunteer potatoes",
+      "Avoid overhead irrigation"
+    ]
+  }
+}
